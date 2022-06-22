@@ -1,0 +1,6 @@
+Commande.
+Fleche directionnel pour bouger.
+Espace pour sauter.
+Espace + une direction  (UP,DOWN,LEFT,RIGHT) Pour les saut directionnel, UP+RIGHT/LEFT pour un neutral jump
+R pour absorber avec les disque
+Z pour dash dans une direction lorsequ'un disque est actif.( Aprés avoir charger de l'energie en touchant les platforme noir)
